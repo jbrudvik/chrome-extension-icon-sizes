@@ -2,8 +2,8 @@ A set of Google Chrome extension icons that show their sizes.
 
 Google Chrome extensions are recommended to include many recommended icon sizes:
 
-- All extensions should include 16x16, 48x48, and 128x128 sizes: [https://developer.chrome.com/extensions/manifest/icons](https://developer.chrome.com/extensions/manifest/icons)
-- Browser action icons should additionally include 19x19, 38x38 sizes: [https://developer.chrome.com/extensions/browserAction#icon](https://developer.chrome.com/extensions/browserAction#icon)
+- [All extensions should include 16x16, 48x48, and 128x128 sizes](https://developer.chrome.com/extensions/manifest/icons)
+- [Browser action icons should additionally include 19x19, 38x38 sizes](https://developer.chrome.com/extensions/browserAction#icon)
 
 When designing icons, it can be helpful to see how they look in the browser. However, it's difficult to tell which icon size is used where in Chrome's UI, especially when your icons look similar.
 
