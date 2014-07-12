@@ -12,12 +12,12 @@ This icon set includes 16x16, 19x19, 38x38, 48x48, and 128x128 PNG images. Inste
 Swap these with your Chrome extension's icons to see where Chrome uses each size.
 
 - 16x16:
-![Image](../master/icon16.png?raw=true)
+![16x16 icon](../master/icon16.png?raw=true)
 - 19x19:
-![Image](../master/icon19.png?raw=true)
+![19x19 icon](../master/icon19.png?raw=true)
 - 38x38:
-![Image](../master/icon38.png?raw=true)
+![38x38 icon](../master/icon38.png?raw=true)
 - 48x48:
-![Image](../master/icon48.png?raw=true)
+![48x48 icon](../master/icon48.png?raw=true)
 - 128x128:
-![Image](../master/icon128.png?raw=true)
+![128x128 icon](../master/icon128.png?raw=true)
